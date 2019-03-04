@@ -1,0 +1,165 @@
+{
+	"code": 200,
+	"message": "success",
+	"inbox": [{
+			"id": "1",
+			"picture": "https://randomuser.me/api/portraits/men/1.jpg",
+			"unreadMessageCount": "14",
+			"username": "Brenda",
+			"lastMessage": "Hi! I am Clyde. How are you? Please reply me!",
+			"online": "false"
+		},
+		{
+			"id": "2",
+			"picture": "https://randomuser.me/api/portraits/men/2.jpg",
+			"unreadMessageCount": "6",
+			"username": "Heidi",
+			"lastMessage": "Hi! I am Wesley. How are you? Please reply me!",
+			"online": "false"
+		},
+		{
+			"id": "3",
+			"picture": "https://randomuser.me/api/portraits/men/3.jpg",
+			"unreadMessageCount": "13",
+			"username": "Steven",
+			"lastMessage": "Hi! I am Kristin. How are you? Please reply me!",
+			"online": "true"
+		},
+		{
+			"id": "4",
+			"picture": "https://randomuser.me/api/portraits/men/4.jpg",
+			"unreadMessageCount": "6",
+			"username": "Lisa",
+			"lastMessage": "Hi! I am Megan. How are you? Please reply me!",
+			"online": "true"
+		},
+		{
+			"id": "5",
+			"picture": "https://randomuser.me/api/portraits/men/5.jpg",
+			"unreadMessageCount": "15",
+			"username": "Courtney",
+			"lastMessage": "Hi! I am Ken. How are you? Please reply me!",
+			"online": "false"
+		},
+		{
+			"id": "6",
+			"picture": "https://randomuser.me/api/portraits/men/6.jpg",
+			"unreadMessageCount": "12",
+			"username": "Melinda",
+			"lastMessage": "Hi! I am Bill. How are you? Please reply me!",
+			"online": "true"
+		},
+		{
+			"id": "7",
+			"picture": "https://randomuser.me/api/portraits/men/7.jpg",
+			"unreadMessageCount": "4",
+			"username": "Gretchen",
+			"lastMessage": "Hi! I am Diana. How are you? Please reply me!",
+			"online": "false"
+		},
+		{
+			"id": "8",
+			"picture": "https://randomuser.me/api/portraits/men/8.jpg",
+			"unreadMessageCount": "19",
+			"username": "Jan",
+			"lastMessage": "Hi! I am Leo. How are you? Please reply me!",
+			"online": "true"
+		},
+		{
+			"id": "9",
+			"picture": "https://randomuser.me/api/portraits/men/9.jpg",
+			"unreadMessageCount": "16",
+			"username": "Doris",
+			"lastMessage": "Hi! I am Carolyn. How are you? Please reply me!",
+			"online": "false"
+		},
+		{
+			"id": "10",
+			"picture": "https://randomuser.me/api/portraits/men/10.jpg",
+			"unreadMessageCount": "3",
+			"username": "Annie",
+			"lastMessage": "Hi! I am Jean. How are you? Please reply me!",
+			"online": "false"
+		},
+		{
+			"id": "11",
+			"picture": "https://randomuser.me/api/portraits/men/11.jpg",
+			"unreadMessageCount": "8",
+			"username": "Nicholas",
+			"lastMessage": "Hi! I am Marc. How are you? Please reply me!",
+			"online": "true"
+		},
+		{
+			"id": "12",
+			"picture": "https://randomuser.me/api/portraits/men/12.jpg",
+			"unreadMessageCount": "1",
+			"username": "Paula",
+			"lastMessage": "Hi! I am Brian. How are you? Please reply me!",
+			"online": "false"
+		},
+		{
+			"id": "13",
+			"picture": "https://randomuser.me/api/portraits/men/13.jpg",
+			"unreadMessageCount": "16",
+			"username": "Katherine",
+			"lastMessage": "Hi! I am Vickie. How are you? Please reply me!",
+			"online": "true"
+		},
+		{
+			"id": "14",
+			"picture": "https://randomuser.me/api/portraits/men/14.jpg",
+			"unreadMessageCount": "15",
+			"username": "Dan",
+			"lastMessage": "Hi! I am Michelle. How are you? Please reply me!",
+			"online": "false"
+		},
+		{
+			"id": "15",
+			"picture": "https://randomuser.me/api/portraits/men/15.jpg",
+			"unreadMessageCount": "3",
+			"username": "Leroy",
+			"lastMessage": "Hi! I am Kara. How are you? Please reply me!",
+			"online": "true"
+		},
+		{
+			"id": "16",
+			"picture": "https://randomuser.me/api/portraits/men/16.jpg",
+			"unreadMessageCount": "15",
+			"username": "Kay",
+			"lastMessage": "Hi! I am Bruce. How are you? Please reply me!",
+			"online": "true"
+		},
+		{
+			"id": "17",
+			"picture": "https://randomuser.me/api/portraits/men/17.jpg",
+			"unreadMessageCount": "0",
+			"username": "Karen",
+			"lastMessage": "Hi! I am Valerie. How are you? Please reply me!",
+			"online": "true"
+		},
+		{
+			"id": "18",
+			"picture": "https://randomuser.me/api/portraits/men/18.jpg",
+			"unreadMessageCount": "17",
+			"username": "Gretchen",
+			"lastMessage": "Hi! I am Allan. How are you? Please reply me!",
+			"online": "true"
+		},
+		{
+			"id": "19",
+			"picture": "https://randomuser.me/api/portraits/men/19.jpg",
+			"unreadMessageCount": "12",
+			"username": "Natalie",
+			"lastMessage": "Hi! I am Geoffrey. How are you? Please reply me!",
+			"online": "false"
+		},
+		{
+			"id": "20",
+			"picture": "https://randomuser.me/api/portraits/men/20.jpg",
+			"unreadMessageCount": "18",
+			"username": "Dorothy",
+			"lastMessage": "Hi! I am Kent. How are you? Please reply me!",
+			"online": "false"
+		}
+	]
+}
