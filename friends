@@ -1,0 +1,62 @@
+{
+	"code": 200,
+	"message": "success",
+	"friends": [{
+			"id": 1,
+			"messagecCount": 604,
+			"username": "Benjamin",
+			"image": "https://randomuser.me/api/portraits/men/4",
+			"online": true
+		},
+		{
+			"id": 2,
+			"messagecCount": 758,
+			"username": "Clara",
+			"image": "https://randomuser.me/api/portraits/men/27",
+			"online": false
+		},
+		{
+			"id": 3,
+			"messagecCount": 482,
+			"username": "Ryan",
+			"image": "https://randomuser.me/api/portraits/men/48",
+			"online": false
+		},
+		{
+			"id": 4,
+			"messagecCount": 712,
+			"username": "Luis",
+			"image": "https://randomuser.me/api/portraits/men/15",
+			"online": false
+		},
+		{
+			"id": 5,
+			"messagecCount": 245,
+			"username": "Rodney",
+			"image": "https://randomuser.me/api/portraits/men/37",
+			"online": true
+		},
+		{
+			"id": 6,
+			"messagecCount": 977,
+			"username": "Allan",
+			"image": "https://randomuser.me/api/portraits/men/40",
+			"online": true
+		},
+		{
+			"id": 7,
+			"messagecCount": 965,
+			"username": "Eileen",
+			"image": "https://randomuser.me/api/portraits/men/24",
+			"online": false
+		},
+		{
+			"id": 8,
+			"messagecCount": 4,
+			"username": "Evelyn",
+			"image": "https://randomuser.me/api/portraits/men/30",
+			"online": false
+		}
+	]
+
+}
